@@ -59,7 +59,9 @@ This project combines **Excel formulas, PivotTables, Conditional Formatting, Wha
 
 The final dashboard uses a dark navy/purple theme with interactive KPI cards, slicers, an Order Date timeline, and four main visualizations.
 
-![Sales Performance Dashboard](./images/DASHBOARD.JPG)
+<p align="center">
+  <img src="./Images/DASHBOARD.JPG" alt="Sales Performance Dashboard" width="900">
+</p>
 
 ### Dashboard Components
 
@@ -84,7 +86,9 @@ The final dashboard uses a dark navy/purple theme with interactive KPI cards, sl
 
 The line chart shows monthly sales performance from January to December.
 
-![Monthly Sales](./images/MONTHLY_SALES.jpg)
+<p align="center">
+  <img src="./Images/MONTHLY_SALES.jpg" alt="Monthly Sales" width="850">
+</p>
 
 ---
 
@@ -92,7 +96,9 @@ The line chart shows monthly sales performance from January to December.
 
 The donut chart shows the contribution of each product category to total sales.
 
-![Product Performance](./images/PRODUCT_PERFORMANCE.jpg)
+<p align="center">
+  <img src="./Images/PRODUCT_PERFORMANCE.jpg" alt="Product Performance" width="850">
+</p>
 
 ---
 
@@ -100,15 +106,18 @@ The donut chart shows the contribution of each product category to total sales.
 
 The clustered column chart compares product-category sales across different regions.
 
-![Region & Product Sales](./images/REGION%26PRODUCT_SALES.jpg)
-
+<p align="center">
+  <img src="./Images/REGION%26PRODUCT_SALES.jpg" alt="Region and Product Sales" width="850">
+</p>
 ---
 
 ## 4. Regional Performance
 
 The horizontal bar chart compares total sales performance across the five regions.
 
-![Regional Performance](./images/REGIONAL_PERFORMANCE.jpg)
+<p align="center">
+  <img src="./Images/REGIONAL_PERFORMANCE.jpg" alt="Regional Performance" width="850">
+</p>
 
 ---
 
